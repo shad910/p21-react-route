@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "image": "/images/plan-basic.jpg",
+    "features": [
+      "Access to gym equipment",
+      "Locker facilities",
+      "1 personal training session",
+      "Free Wi-Fi",
+      "Open 6 AM – 10 PM"
+    ],
+    "description": "Perfect for beginners who want essential access to all gym equipment and basic facilities.",
+    "price": "$29/month",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Premium Plan",
+    "image": "/images/plan-premium.jpg",
+    "features": [
+      "Unlimited gym access",
+      "Group fitness classes",
+      "Weekly personal training",
+      "Sauna & steam room access",
+      "Nutrition consultation"
+    ],
+    "description": "Our most popular plan, tailored for those serious about fitness with full facility access and personal guidance.",
+    "price": "$59/month",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Family Plan",
+    "image": "/images/plan-family.jpg",
+    "features": [
+      "Access for 3 family members",
+      "Kids fitness programs",
+      "Weekend family classes",
+      "Free guest passes",
+      "Dedicated family support"
+    ],
+    "description": "A family-friendly membership to keep everyone active and healthy with shared benefits.",
+    "price": "$99/month",
+    "popular": true
+  },
+  {
+    "id": 4,
+    "name": "Yoga Package",
+    "image": "/images/yoga-pack.jpg",
+    "features": [
+      "Unlimited yoga classes",
+      "Meditation sessions",
+      "Access to yoga studio",
+      "Free yoga mat",
+      "Mindfulness coaching"
+    ],
+    "description": "A calming, wellness-focused package for yoga enthusiasts and beginners alike.",
+    "price": "$39/month",
+    "popular": false
+  }
+]
