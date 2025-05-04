@@ -1,6 +1,6 @@
 # React Router
 
- 
+"React Route" - A practice-based React project featuring a custom-built Navbar component and routing setup to enhance single-page application development skills. 
 
 ## Live Link: https://p21-react-route-shad910.netlify.app/
 
